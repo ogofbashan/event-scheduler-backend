@@ -1,0 +1,15 @@
+Dear {{ email }},
+
+This is an alert to let you know that you have just booked an event on {{ month }}/{{ day }}/{{ year }}.
+
+The information is as follows:
+
+Event Title: {{ title }}
+Event Notes: {{ notes }}
+
+If you did not create an event with us, please contact us immediately or paste the link below into your URL:
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Sincerely,
+Coding Temple
